@@ -6,6 +6,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
+    justify-content: center;
   }
   a.site-logo {
     font-size: 26px;
@@ -71,6 +72,9 @@
 
   /* mobile breakpoint start */
 @media screen and (max-width: 767px) {
+    .nav-bar-container > img {
+        max-width: 720px;
+    }
     .container {
       max-width: 720px;
     }
@@ -115,3 +119,9 @@
     }  
     /* navbar css for mobile end */
   }
+
+  @media screen and (max-width: 500px) {
+    .nav-bar-container > img {
+        max-width: 500px;
+    }
+}
