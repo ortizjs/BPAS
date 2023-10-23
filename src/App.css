@@ -1,6 +1,8 @@
 .app-container {
   display: flex;
   justify-content: center;
+  background-image: url('./assets/images/grey-wall.jpg');
+  height: 100%;
 }
 /* .App {
   text-align: center;
