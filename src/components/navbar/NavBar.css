@@ -32,6 +32,10 @@
   .site-navbar ul li a:hover {
     background: rgba(255,255,255,.1);
   }
+
+  .active {
+    background: rgba(255,255,255,.1);
+  }
   /* regular navbar css end */
   
   
