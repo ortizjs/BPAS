@@ -1,4 +1,5 @@
 import React, {useState} from 'react';
+import {Link} from 'react-router-dom';
 import './NavBar.css';
 import BimmersBanner from './../../assets/images/banner-bimmers.jpg'
 
@@ -18,10 +19,10 @@ const NavBar = () => {
               <nav className="site-navbar">
                 {/* <a href="#home" className="site-logo">logo</a> */}
                 <ul className={`${togglerOpen ? 'open' : ''}`}>
-                  <li><a href="/">home</a></li>
-                  <li><a href="/services">service</a></li>
-                  <li><a href="/specials">specials</a></li>
-                  <li><a href="/contact">contact</a></li>
+                  <li onClick={togglerOnClick}><Link to="/">Home</Link></li>
+                  <li onClick={togglerOnClick}><Link to="/services">service</Link></li>
+                  <li onClick={togglerOnClick}><Link to="/specials">specials</Link></li>
+                  <li onClick={togglerOnClick}><Link to="/contact">contact</Link></li>
                 </ul>
         
                 <button className={`nav-toggler${togglerOpen ? ' toggler-open' : ''}`} onClick={togglerOnClick}>
