@@ -64,7 +64,7 @@ const Carousel = () => {
       }, [isSliding, activeIndex])
 
     return (
-        <div>
+        <div className='carousel-container'>
             <Viewer catalogImage={ catalogs[activeIndex].image } />
         </div>
     )
