@@ -1,14 +1,17 @@
 import React from 'react'
-import NavBar from './components/navbar/NavBar';
 import {BrowserRouter as Router, Routes, Route, Navigate} from 'react-router-dom';
+import NavBar from './components/navbar/NavBar';
+import Home from './components/home/Home';
 import './App.css'
+
 const App = () => {
     return (
       <div className='app-container'>
-          <Routes>
-
-            <Route path="/" element={<NavBar/>}/>
-          </Routes>
+        <NavBar/>
+        <Routes>
+          <Route path="/" element={<Home/>}/>
+        </Routes>
+        <hr className="splash-page-main-div-hr" align="center"/>
       </div>
     )
 }
