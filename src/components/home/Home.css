@@ -1,18 +1,18 @@
 .home-page-container {
     display: flex;
     flex-direction: row;
-    justify-content: center;
     width: 940px;
+    margin-top: 20px;
 }
 
 .home-page-left-side {
     display: flex;
     flex-direction: column;
-    width: 500px;
+    width: 700px;
 }
 .home-page-right-side {
     display: flex;
-    /* width: 200px; */
+    margin-left: 50px;
 }
 p {
     font-weight: bold;
@@ -20,5 +20,51 @@ p {
 
 .home-map-container {
     height: 400px;
-    width: 400px;
+    width: 300px;
 }
+
+.home-logos-img-container {
+    display: flex;
+    justify-content: center;
+}
+
+.splash-home-welcome-span {
+    margin-top: 25px;
+}
+.splash-home-business-intro {
+    color: #000000;
+    font-family: Tahoma, tahoma-w01-regular, tahoma-w02-regular,
+      tahoma-w10-regular, tahoma-w15--regular, tahoma-w99-regular, sans-serif;
+    line-height: 20.8px;
+}
+  
+.splash-home-business-intro-2 {
+    color: black;
+    font-family: Tahoma, sans-serif;
+    line-height: 1.5;
+}
+
+/* @media screen and (max-width: 820px) {
+    .home-page-container {
+        width: 820px;
+    }
+}
+
+@media screen and (max-width: 912px) {
+    .home-page-container {
+        width: 912px;
+    }
+}
+
+@media screen and (max-width: 940px) {
+    .home-page-right-side {
+        margin-left: 10px;
+    }
+}
+
+@media screen and (max-width: 390px) {
+    .home-page-container {
+        width: 390px;
+    }
+  
+} */
