@@ -9,7 +9,7 @@ const App = () => {
       <div className='app-container'>
         <NavBar/>
         <Routes>
-          <Route path="/home" element={<Home/>}/>
+          <Route path="/" element={<Home/>}/>
         </Routes>
         <hr className="splash-page-main-div-hr" align="center"/>
       </div>
