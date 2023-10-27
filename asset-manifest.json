@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/BPAS/static/css/main.17100e05.css",
-    "main.js": "/BPAS/static/js/main.f5a61b43.js",
+    "main.css": "/BPAS/static/css/main.86eb6aed.css",
+    "main.js": "/BPAS/static/js/main.ebd8fa69.js",
     "static/js/787.25b86da3.chunk.js": "/BPAS/static/js/787.25b86da3.chunk.js",
-    "static/media/grey-wall.jpg": "/BPAS/static/media/grey-wall.651f7798eccf6551ecd3.jpg",
+    "static/media/grey-wall.jpg": "/BPAS/static/media/grey-wall.d20be6d202ef58f8531d.jpg",
     "static/media/redBmw.png": "/BPAS/static/media/redBmw.25c1509f6d84bdbd3446.png",
     "static/media/m4.png": "/BPAS/static/media/m4.60acba29f1f89e01ffd5.png",
     "static/media/silverBmw.png": "/BPAS/static/media/silverBmw.fa79025711cf7cfd433d.png",
@@ -13,12 +13,12 @@
     "static/media/shuttle_img.png": "/BPAS/static/media/shuttle_img.22afa2c61f521eb059ed.png",
     "static/media/carlogos.png": "/BPAS/static/media/carlogos.41f6f6f2e0e56f0fb822.png",
     "index.html": "/BPAS/index.html",
-    "main.17100e05.css.map": "/BPAS/static/css/main.17100e05.css.map",
-    "main.f5a61b43.js.map": "/BPAS/static/js/main.f5a61b43.js.map",
+    "main.86eb6aed.css.map": "/BPAS/static/css/main.86eb6aed.css.map",
+    "main.ebd8fa69.js.map": "/BPAS/static/js/main.ebd8fa69.js.map",
     "787.25b86da3.chunk.js.map": "/BPAS/static/js/787.25b86da3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.17100e05.css",
-    "static/js/main.f5a61b43.js"
+    "static/css/main.86eb6aed.css",
+    "static/js/main.ebd8fa69.js"
   ]
 }
