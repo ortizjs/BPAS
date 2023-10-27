@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/BPAS/static/css/main.c407949c.css",
+    "main.css": "/BPAS/static/css/main.17100e05.css",
     "main.js": "/BPAS/static/js/main.f5a61b43.js",
     "static/js/787.25b86da3.chunk.js": "/BPAS/static/js/787.25b86da3.chunk.js",
     "static/media/grey-wall.jpg": "/BPAS/static/media/grey-wall.651f7798eccf6551ecd3.jpg",
@@ -13,12 +13,12 @@
     "static/media/shuttle_img.png": "/BPAS/static/media/shuttle_img.22afa2c61f521eb059ed.png",
     "static/media/carlogos.png": "/BPAS/static/media/carlogos.41f6f6f2e0e56f0fb822.png",
     "index.html": "/BPAS/index.html",
-    "main.c407949c.css.map": "/BPAS/static/css/main.c407949c.css.map",
+    "main.17100e05.css.map": "/BPAS/static/css/main.17100e05.css.map",
     "main.f5a61b43.js.map": "/BPAS/static/js/main.f5a61b43.js.map",
     "787.25b86da3.chunk.js.map": "/BPAS/static/js/787.25b86da3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c407949c.css",
+    "static/css/main.17100e05.css",
     "static/js/main.f5a61b43.js"
   ]
 }
