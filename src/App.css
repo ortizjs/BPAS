@@ -16,7 +16,11 @@
   width: 940px;
 }
 
-
+@media screen and (min-height: 1290px) {
+  .app-container {
+    height: 100vh;
+  }
+}
 /* 
 @media screen and (max-width: 820px) {
   .app-container {
