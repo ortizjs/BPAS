@@ -1,0 +1,70 @@
+.services-container {
+    width: 940px;
+    display: flex;
+    flex-direction: row;
+    background-color: transparent;
+  }
+
+.tables-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+.splash-service-span-1 {
+    color: #000000;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", Arial;
+    font-size: 14px;
+    line-height: 20px;
+}
+  
+.splash-service-span-2 {
+    color: #000000;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", Arial;
+    line-height: 20px;
+    font-size: 16px;
+}
+.splash-service-span-3 {
+    font-size: 14px;
+    color: #0000ff;
+}
+
+.splash-services-td {
+    vertical-align: top;
+    text-align: left;
+    border-bottom: none;
+}
+
+.splash-services-td ul {
+    list-style-type: '🔧';
+    padding-inline-start: 15px;
+    margin: 0 0 18px 10px;
+    font-size: 15px;
+    font-weight: bold;
+    line-height: 15px;
+
+}
+.splash-services-td li {
+    margin-top: 15px;
+    padding-left: 5px;
+    font-family: Georgia, "Bitstream Charter", serif;
+    line-height: 20px;
+}
+  
+.entry-title {
+    color: #000;
+    font-size: 21px;
+    font-weight: bold;
+    line-height: 1.3em;
+    margin-bottom: 0;
+    margin-top: 10px;
+}
+
+.entry-content {
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.entry-content table {
+    color: black;
+    border: 1px solid #e7e7e7;
+}
