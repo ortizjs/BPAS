@@ -32,9 +32,9 @@ const Carousel = () => {
           },
     ];
 
-    const [ catalogs, setCatalogs ] = useState([...catalogList]);
+    const [ catalogs ] = useState([...catalogList]);
     const [ activeIndex, setActiveIndex ] = useState(0);
-    const [ isSliding, setIsSliding ] = useState(true);
+    const [ isSliding ] = useState(true);
     const [ slideDuration ] = useState(3000);
 
     // const handlePreviousClick = () => {
@@ -61,7 +61,7 @@ const Carousel = () => {
           const interval = setInterval(() => handleNextClick(), slideDuration);
           return () => clearInterval(interval)
         }
-      }, [isSliding, activeIndex])
+      })
 
     return (
         <div className='carousel-container'>
