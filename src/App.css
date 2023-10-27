@@ -8,6 +8,10 @@
   /* height: 100vh; */
 }
 
+.extended-down {
+  height: 100%;
+}
+
 .splash-page-main-div-hr {
   height: 5px;
   border-width: 0;
@@ -19,6 +23,9 @@
 @media screen and (min-height: 1290px) {
   .app-container {
     height: 100vh;
+  }
+  .extended-down {
+    height: 100%;
   }
 }
 /* 

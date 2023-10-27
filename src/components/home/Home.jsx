@@ -4,9 +4,9 @@ import RightSideInfo from '../Info/RightSideInfo'
 import carLogos from './../../assets/images/carlogos.png'
 import './Home.css'
 const Home = () => {
-
+    
     return (
-        <div className='home-page-container'>
+        <div className="home-page-container">
             <div className='home-page-left-side'>
                 <Carousel/>
                 <span className="splash-home-welcome-span">
