@@ -105,10 +105,7 @@ const Services = () => {
                                         <li>Heating &amp; Cooling System Diagnostics</li>
                                         <li>Auto Air Conditioning Repair &amp; Service</li>
                                         <li>Heating System Repair &amp; Service</li>
-                                        <li>Belt Repair &amp; Replacement</li>
-                                        <li>Compressor Repair &amp; Replacement</li>
-                                        <li>Evaporator Repair &amp; Replacement</li>
-                                        <li>Refrigerant Replacement</li>
+                                        <li>AC Compressor Replacement</li>
                                     </ul>
                                 </td>
                             </tr>
