@@ -56,22 +56,20 @@ const Services = () => {
                             <tr>
                                 <td className="splash-services-td">
                                     <ul>
-                                        <li>Mercedes Flex Services</li>
+                                        <li>BMW Flex Services</li>
                                         <li>BMW Inspection I, II and CBS (Condition Based Services)</li>
                                         <li>30/60/90/120 Mile Services</li>
                                         <li>Computer Diagnostics</li>
                                         <li>Oil Changes</li>
                                         <li>Tune Ups</li>
-                                        <li>Filter Replacements</li>
                                         <li>Safety Inspections</li>
                                         <li>Windshield Wiper Blades</li>
                                         <li>Fluid Services</li>
-                                        <li>Trip Inspections</li>
                                         <li>Maintenance Inspections</li>
                                         <li>Check Engine Light Diagnostics &amp; Repair</li>
-                                        <li>Brake Repair &amp; Antilock Braking System (ABS) Repair</li>
-                                        <li>Shocks &amp; Struts Repair</li>
-                                        <li>Suspension &amp; Steering Repair</li>
+                                        <li>Brake Services</li>
+                                        <li>Shocks &amp; Struts Replacement</li>
+                                        <li>Suspension &amp; Steering Services</li>
                                     </ul>
                                 </td>
                                 
@@ -89,10 +87,9 @@ const Services = () => {
                                 </td>
                                 <td className="splash-services-td">
                                     <ul>
-                                        <li>Engine Repair</li>
                                         <li>Engine Replacement</li>
                                         <li>Engine Performance Check</li>
-                                        <li>Belt Replacement</li>
+                                        <li>Drive Belts Replacement</li>
                                         <li>Hose Replacement</li>
                                         <li>Cooling System Repair</li>
                                         <li>Radiator  Replacement</li>
@@ -150,11 +147,9 @@ const Services = () => {
                                         <li>Starter Repair &amp; Replacement</li>
                                         <li>Windshield Wiper Repair</li>
                                         <li>Power Lock Repairv</li>
-                                        <li>Power Antenna Repair</li>
-                                        <li>Power Steering Repair</li>
                                         <li>Power Window Repair</li>
                                         <li>Power Accessory Repair</li>
-                                        <li>Light Repair &amp; Bulb Replacements</li>
+                                        <li>Light Repair &amp; Bulb Replacement</li>
                                     </ul>
                                 </td>
                                 <td className="splash-services-td">
@@ -165,12 +160,8 @@ const Services = () => {
                                 </td>
                                 <td className="splash-services-td">
                                     <ul>
-                                        <li>Exhaust Repair &amp; Replacement</li>
-                                        <li>Muffler Repair &amp; Replacement</li>
-                                        <li>Tailpipe Repair &amp; Replacement</li>
-                                        <li>Catalytic Converter Repair</li>
-                                        <li>Exhaust Manifold Repair</li>
-                                        <li>Exhaust Upgrades</li>
+                                        <li>Catalytic Converter Replacement</li>
+                                        <li>Exhaust Manifold Replacement</li>
                                     </ul>
                                 </td>
                                 <td className="splash-services-td" style={{ borderRight: "none" }}>
