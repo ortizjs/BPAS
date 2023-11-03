@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/BPAS/static/css/main.86eb6aed.css",
-    "main.js": "/BPAS/static/js/main.ebd8fa69.js",
+    "main.js": "/BPAS/static/js/main.fc43b956.js",
     "static/js/787.25b86da3.chunk.js": "/BPAS/static/js/787.25b86da3.chunk.js",
     "static/media/grey-wall.jpg": "/BPAS/static/media/grey-wall.d20be6d202ef58f8531d.jpg",
     "static/media/redBmw.png": "/BPAS/static/media/redBmw.25c1509f6d84bdbd3446.png",
@@ -14,11 +14,11 @@
     "static/media/carlogos.png": "/BPAS/static/media/carlogos.41f6f6f2e0e56f0fb822.png",
     "index.html": "/BPAS/index.html",
     "main.86eb6aed.css.map": "/BPAS/static/css/main.86eb6aed.css.map",
-    "main.ebd8fa69.js.map": "/BPAS/static/js/main.ebd8fa69.js.map",
+    "main.fc43b956.js.map": "/BPAS/static/js/main.fc43b956.js.map",
     "787.25b86da3.chunk.js.map": "/BPAS/static/js/787.25b86da3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.86eb6aed.css",
-    "static/js/main.ebd8fa69.js"
+    "static/js/main.fc43b956.js"
   ]
 }
