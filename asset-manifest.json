@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/www.ibimmerservice.com/static/css/main.663af0e8.css",
-    "main.js": "/www.ibimmerservice.com/static/js/main.d6b722d2.js",
-    "static/js/787.25b86da3.chunk.js": "/www.ibimmerservice.com/static/js/787.25b86da3.chunk.js",
-    "static/media/grey-wall.jpg": "/www.ibimmerservice.com/static/media/grey-wall.d20be6d202ef58f8531d.jpg",
-    "static/media/redBmw.png": "/www.ibimmerservice.com/static/media/redBmw.25c1509f6d84bdbd3446.png",
-    "static/media/m4.png": "/www.ibimmerservice.com/static/media/m4.60acba29f1f89e01ffd5.png",
-    "static/media/silverBmw.png": "/www.ibimmerservice.com/static/media/silverBmw.fa79025711cf7cfd433d.png",
-    "static/media/hoodOpen.png": "/www.ibimmerservice.com/static/media/hoodOpen.7bf85ef05aacfef06593.png",
-    "static/media/mercedes.png": "/www.ibimmerservice.com/static/media/mercedes.f7408a15aaab4b64f578.png",
-    "static/media/banner-bimmers.jpg": "/www.ibimmerservice.com/static/media/banner-bimmers.593a03b6f93de4b19830.jpg",
-    "static/media/carlogos.png": "/www.ibimmerservice.com/static/media/carlogos.41f6f6f2e0e56f0fb822.png",
-    "index.html": "/www.ibimmerservice.com/index.html",
-    "main.663af0e8.css.map": "/www.ibimmerservice.com/static/css/main.663af0e8.css.map",
-    "main.d6b722d2.js.map": "/www.ibimmerservice.com/static/js/main.d6b722d2.js.map",
-    "787.25b86da3.chunk.js.map": "/www.ibimmerservice.com/static/js/787.25b86da3.chunk.js.map"
+    "main.css": "/static/css/main.abe9930f.css",
+    "main.js": "/static/js/main.9db14542.js",
+    "static/js/787.25b86da3.chunk.js": "/static/js/787.25b86da3.chunk.js",
+    "static/media/grey-wall.jpg": "/static/media/grey-wall.d20be6d202ef58f8531d.jpg",
+    "static/media/redBmw.png": "/static/media/redBmw.25c1509f6d84bdbd3446.png",
+    "static/media/m4.png": "/static/media/m4.60acba29f1f89e01ffd5.png",
+    "static/media/silverBmw.png": "/static/media/silverBmw.fa79025711cf7cfd433d.png",
+    "static/media/hoodOpen.png": "/static/media/hoodOpen.7bf85ef05aacfef06593.png",
+    "static/media/mercedes.png": "/static/media/mercedes.f7408a15aaab4b64f578.png",
+    "static/media/banner-bimmers.jpg": "/static/media/banner-bimmers.593a03b6f93de4b19830.jpg",
+    "static/media/carlogos.png": "/static/media/carlogos.41f6f6f2e0e56f0fb822.png",
+    "index.html": "/index.html",
+    "main.abe9930f.css.map": "/static/css/main.abe9930f.css.map",
+    "main.9db14542.js.map": "/static/js/main.9db14542.js.map",
+    "787.25b86da3.chunk.js.map": "/static/js/787.25b86da3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.663af0e8.css",
-    "static/js/main.d6b722d2.js"
+    "static/css/main.abe9930f.css",
+    "static/js/main.9db14542.js"
   ]
 }
