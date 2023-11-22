@@ -1,0 +1,6 @@
+.reviews-container {
+    width: 940px;
+    display: flex;
+    flex-direction: row;
+    background-color: transparent;
+}
