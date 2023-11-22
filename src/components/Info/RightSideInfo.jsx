@@ -1,6 +1,5 @@
 import React from 'react'
 import LocationMap from '../location/LocationMap'
-import ShuttleImg from './../../assets/images/shuttle_img.png'
 import './RightSideInfo.css'
 const RightSideInfo = () => {
 
