@@ -59,21 +59,10 @@ const RightSideInfo = () => {
                             <br />
                             <strong className="splash-right-textwidget-strong-days" >Friday: 8:30 AM - 6:00 PM</strong>
                             <br />
-                            <strong className="splash-right-textwidget-strong-days" >Saturday: 9:00 AM - 3:00 PM</strong>
+                            <strong className="splash-right-textwidget-strong-days" >Saturday: Closed</strong>
                             <br />
                             <strong className="splash-right-textwidget-strong-days" >Sunday: Closed</strong>
                         </div>
-                    </li>
-                    <li id="text-12" className="widget-container widget_text">
-                        <strong className="splash-right-textwidget-strong">
-                            <strong className="splash-right-textwidget-strong">			
-                                <div className="textwidget">
-                                    <img className="shuttle-img" alt="" src={ShuttleImg} align="middle"/>
-                                    &nbsp;
-                                    <p></p>
-                                </div>
-		                    </strong>
-                        </strong>
                     </li>
                     <li id="text-8" className="widget-container widget_text location">
                         <h3 className="widget-title">
