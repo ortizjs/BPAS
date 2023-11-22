@@ -35,3 +35,4 @@ jobs:
 
     env:
       REACT_APP_GOOGLE_MAPS_API_KEY: ${{ secrets.REACT_APP_GOOGLE_MAPS_API_KEY }}
+      REACT_APP_YELP_DEV_API_KEY: ${{ secrets.REACT_APP_YELP_DEV_API_KEY }}
