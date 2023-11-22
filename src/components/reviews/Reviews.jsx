@@ -44,7 +44,7 @@ const Reviews = () => {
 
     useEffect(() => {
         fetchYelpData();
-    }, [])
+    })
 
     return (
         <div className='reviews-container'>
