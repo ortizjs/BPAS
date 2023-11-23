@@ -64,7 +64,7 @@ const ContactUs = () => {
 
     return (
         <div className="contact-us-form-container-div">
-            <div className='home-page-left-side'>
+            <div className='contact-us-page-left-side'>
 
                 <div className="contact-us-form-inner-div">
                     {messageSent === true && (
@@ -117,7 +117,7 @@ const ContactUs = () => {
                     </div>
                 </div>
             </div>
-            <div className='home-page-right-side'>
+            <div className='contact-us-page-right-side'>
                 <RightSideInfo/>
             </div>
         </div>
