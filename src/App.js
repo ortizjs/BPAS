@@ -5,6 +5,7 @@ import Home from './components/home/Home';
 import Services from './components/services/Services';
 import Reviews from './components/reviews/Reviews';
 import './App.css'
+import ContactUs from './components/contactUs/ContactUs';
 
 const App = () => {
     const location = useLocation();
@@ -16,6 +17,7 @@ const App = () => {
           <Route path="/" element={<Home/>}/>
           <Route path="/services" element={<Services/>}/>
           <Route path="/reviews" element={<Reviews/>}/>
+          <Route path="/contact-us" element={<ContactUs/>}/>
         </Routes>
         <hr className="splash-page-main-div-hr" align="center"/>
       </div>
