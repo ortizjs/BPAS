@@ -28,7 +28,7 @@ const RightSideInfo = () => {
                                 <strong className="splash-right-textwidget-strong" >Call Us: (925) 682-3232
                                     <br />
                                     <strong className="splash-right-textwidget-strong" >Email Us at:  </strong>
-                                    <a href="mailto:saulortiz40@gmail.com>?Subject=Thank%20you%20for%20emailing%20us" target="_top">Bimmers Support</a>
+                                    <a href="mailto:bimmers.performance.as@gmail.com>?Subject=Thank%20you%20for%20emailing%20us" target="_top">Bimmers Support</a>
                                 </strong>
                             </div>
                             <strong className="splash-right-textwidget-strong" >
