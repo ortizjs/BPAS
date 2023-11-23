@@ -38,7 +38,7 @@ const Home = () => {
                     &nbsp;
                     <span className="splash-home-business-intro">
                         Bimmers Performance Auto Service has been providing superior automotive repair and maintenance services in 
-                        East Bay area for over 15 years
+                        East Bay area for over 20 years
                         &nbsp;
                     </span>
                     <span className="splash-home-business-intro-2">
@@ -50,30 +50,25 @@ const Home = () => {
                     <span className="splash-home-business-intro-2">
                         Our specialty is in BMW and Mercedes Benz vehicle repairs and we also provide full service general repairs and 
                         &nbsp;proudly service all other types of vehicles; foreign or domestic. Our technicians are highly trained and 
-                        &nbsp;experienced, with the knowledge and skills necessary to handle all of your auto repairs.
+                        &nbsp;experienced, with the knowledge and skills necessary to handle all of your auto repairs and needs.
                     </span>
                 </p>
                 <p>
                     &nbsp;
                     <span className="splash-home-business-intro-2">
-                        Our team is dedicated to providing you and your vehicle with professional service and exceptional customer care. 
-                        &nbsp;
-                        THANK YOU for choosing
+                        Our team is dedicated to providing you and your vehicle with professional service and exceptional customer care. THANK YOU for choosing
                         &nbsp;
                     </span>
                     <span className="splash-home-business-intro">
                         Bimmers Performance Auto Service
                     </span>
-                    <span className="splash-home-business-intro">
-                        Great 
-                    </span>
+                   
                     <span className="splash-home-business-intro">
                         as your go-to Auto Center!
                         &nbsp;
                     </span>
                 </p>
                 <div className='home-logos-img-container'>
-                    {/* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; */}
                     <img alt="car_logos" src={carLogos} className="cars-logo-centered"></img>
                 
                 </div>
