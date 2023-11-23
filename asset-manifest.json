@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.abe9930f.css",
-    "main.js": "/static/js/main.9db14542.js",
+    "main.css": "/static/css/main.721d63cc.css",
+    "main.js": "/static/js/main.266747b4.js",
     "static/js/787.25b86da3.chunk.js": "/static/js/787.25b86da3.chunk.js",
     "static/media/grey-wall.jpg": "/static/media/grey-wall.d20be6d202ef58f8531d.jpg",
     "static/media/redBmw.png": "/static/media/redBmw.25c1509f6d84bdbd3446.png",
@@ -12,12 +12,12 @@
     "static/media/banner-bimmers.jpg": "/static/media/banner-bimmers.593a03b6f93de4b19830.jpg",
     "static/media/carlogos.png": "/static/media/carlogos.41f6f6f2e0e56f0fb822.png",
     "index.html": "/index.html",
-    "main.abe9930f.css.map": "/static/css/main.abe9930f.css.map",
-    "main.9db14542.js.map": "/static/js/main.9db14542.js.map",
+    "main.721d63cc.css.map": "/static/css/main.721d63cc.css.map",
+    "main.266747b4.js.map": "/static/js/main.266747b4.js.map",
     "787.25b86da3.chunk.js.map": "/static/js/787.25b86da3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.abe9930f.css",
-    "static/js/main.9db14542.js"
+    "static/css/main.721d63cc.css",
+    "static/js/main.266747b4.js"
   ]
 }
