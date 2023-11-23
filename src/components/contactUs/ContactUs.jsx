@@ -29,7 +29,7 @@ const ContactUs = () => {
             });
 
             if (response.ok) {
-              const data = await response.json();
+            //   const _data = await response.json();
               setMessageSent(true)
               setName("")
               setEmail("")
@@ -37,7 +37,7 @@ const ContactUs = () => {
               setTimeout(() => setMessageSent(false), 7000)
             } else {
               responseBodyText = await response.json();
-              const errorData = await response.json();
+            //   const _errorData = await response.json();
             }
         } catch (error) {
         setErrors([responseBodyText.error]);
@@ -105,7 +105,7 @@ const ContactUs = () => {
                                 </textarea>
                             </div >
                             <div className="submit-buttom-div">
-                                <input className="large-log-inbutton" type="submit" value="Send Email"/>
+                                <input className="contact-us-submit-button" type="submit" value="Send Email"/>
                             </div>
                         </fieldset >
                     </form>
