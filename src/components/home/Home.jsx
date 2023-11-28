@@ -42,7 +42,7 @@ const Home = () => {
                         &nbsp;
                     </span>
                     <span className="splash-home-business-intro-2">
-                        specializing<br/>in BMW and Mercedes Benz vehicle repairs.
+                        specializing in BMW and Mercedes Benz vehicle repairs.
                     </span>
                 </p>
                 <p>
