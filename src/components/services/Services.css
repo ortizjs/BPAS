@@ -68,3 +68,25 @@
     color: black;
     border: 1px solid #e7e7e7;
 }
+
+@media screen and (max-width: 430px) {
+    .services-container {
+        width: 930px;
+        margin-left: 10px;
+    }
+}
+
+@media screen and (max-width: 540px) {
+    .services-container {
+        width: 930px;
+        margin-left: 10px;
+    }
+    
+}
+@media screen and (max-width: 820px) {
+    .services-container {
+        width: 930px;
+        margin-left: 10px;
+    }
+    
+}
