@@ -33,7 +33,7 @@ const NavBar = () => {
                 <li className={`${path === "services" ? "active" : ""}`} onClick={togglerOnClick}><Link to="/services">services</Link></li>
                 {/* <li className={`${path === "specials" ? "active" : ""}`} onClick={togglerOnClick}><Link to="/specials">specials</Link></li> */}
                 <li className={`${path === "reviews" ? "active" : ""}`} onClick={togglerOnClick}><Link to="/reviews">reviews</Link></li>
-                <li className={`${path === "contact" ? "active" : ""}`} onClick={togglerOnClick}><Link to="/contact-us">contact</Link></li>
+                <li className={`${path === "contact-us" ? "active" : ""}`} onClick={togglerOnClick}><Link to="/contact-us">contact</Link></li>
               </ul>
       
               <button className={`nav-toggler${togglerOpen ? ' toggler-open' : ''}`} onClick={togglerOnClick}>
