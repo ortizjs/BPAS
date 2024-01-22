@@ -30,7 +30,7 @@ const NavBar = () => {
               {/* <a href="#home" className="site-logo">logo</a> */}
               <ul className={`${togglerOpen ? 'open' : ''}`}>
                 <li className={`${path === "" ? "active" : ""}`} onClick={togglerOnClick}><Link to="/">Home</Link></li>
-                <li className={`${path === "services" ? "active" : ""}`} onClick={togglerOnClick}><Link to="/services">service</Link></li>
+                <li className={`${path === "services" ? "active" : ""}`} onClick={togglerOnClick}><Link to="/services">services</Link></li>
                 {/* <li className={`${path === "specials" ? "active" : ""}`} onClick={togglerOnClick}><Link to="/specials">specials</Link></li> */}
                 <li className={`${path === "reviews" ? "active" : ""}`} onClick={togglerOnClick}><Link to="/reviews">reviews</Link></li>
                 <li className={`${path === "contact" ? "active" : ""}`} onClick={togglerOnClick}><Link to="/contact-us">contact</Link></li>
